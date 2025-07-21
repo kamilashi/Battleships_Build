@@ -1,0 +1,4 @@
+# This .gitignore file should be placed at the repo root, project is in /Battleships
+
+# Unity generated folders
+/Battleships/Battleships_BurstDebugInformation_DoNotShip/
